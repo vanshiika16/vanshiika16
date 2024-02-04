@@ -39,20 +39,14 @@
   </a>
 </p>
 <br/>
-- 🌐 <a href="https://tiasaxena.github.io/Portfolio/" target="blank">Portfolio</a>
+- 🌐 <a href="https://vanshiika16.github.io/myapp/" target="blank">Portfolio</a>
 <br/>
 <hr/>
 <br/>
 
-[![tiasaxena's GitHub stats](https://github-readme-stats.vercel.app/api?username=tiasaxena&theme=radical&show)](https://github.com/tiasaxena/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tiasaxena&theme=omni&show)](https://github.com/tiasaxena/github-readme-stats)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=tiasaxena&theme=radical)](https://git.io/streak-stats)
-
 <br/>
 <hr/>
-<br/>
+<br/
 
 <div  align = "center">
   <p>Watch a snake 🐍 eating my GitHub contributions😯</p>
