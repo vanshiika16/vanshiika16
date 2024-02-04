@@ -2,9 +2,6 @@
 <h1 align="center">Hi 👋, I'm VANSHIKA👩🏽‍💻</h1>
 <h3 align="center">Hopping in the tech world!</h3>
 <br>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tiasaxena&label=Profile%20views&color=0e75b6&style=flat" alt="tiasaxena" /> </p>
-
 <img align = "right" src="https://media4.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=ecf05e47k5e3xmpd6m4dvu906z3mvoo6ovh3o6muqeyus7lm&rid=giphy.gif&ct=g" alt = "snake-svg"/>
 
 - 🌱 I’m into **MERN Stack Development**
@@ -43,16 +40,6 @@
 <br/>
 <hr/>
 <br/>
-
-<br/>
-<hr/>
-<br/
-
-<div  align = "center">
-  <p>Watch a snake 🐍 eating my GitHub contributions😯</p>
-  <img src="https://github.com/tiasaxena/tiasaxena/blob/output/github-contribution-grid-snake.svg" alt = "snake-svg"/>
-</div>
-
 <p align="center"> 🤩Feel free to appreciate my work🤩 </p>
 
 <!--
