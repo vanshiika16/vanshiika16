@@ -23,13 +23,6 @@
       src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
     />
   </a>
-  
-  <a href="https://www.instagram.com/vnshica/" rel="nofollow">
-    <img
-      src="https://img.freepik.com/free-vector/instagram-icon_1057-2227.jpg?w=740&t=st=1707044412~exp=1707045012~hmac=401c2f36240011cd50a23317ad031fe283974dec087b08b74999789fe9089126"
-        
-    />
-  </a>
   <a href="https://www.linkedin.com/in/vanshiika16/" rel="nofollow">
     <img
       src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
