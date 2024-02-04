@@ -1,4 +1,3 @@
-### Hi there 👋
 <h1 align="center">Hi 👋, I'm VANSHIKA👩🏽‍💻</h1>
 <h3 align="center">Hopping in the tech world!</h3>
 <br>
