@@ -1,8 +1,6 @@
 ### Hi there 👋
 <h1 align="center">Hi 👋, I'm VANSHIKA👩🏽‍💻</h1>
 <h3 align="center">Hopping in the tech world!</h3>
-
-![gitartwork](gitartwork.svg)
 <br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tiasaxena&label=Profile%20views&color=0e75b6&style=flat" alt="tiasaxena" /> </p>
@@ -23,18 +21,18 @@
 
 <p align="center" dir="auto">
     
-  <a href="mailto:tia.saxena041202@gmail.com" rel="nofollow">
+  <a href="mailto:kvanshika02@gmail.com" rel="nofollow">
     <img
       src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
     />
   </a>
   
-  <a href="https://twitter.com/thesaxenatia" rel="nofollow">
+  <a href="" rel="nofollow">
     <img
       src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"
     />
   </a>
-  <a href="https://www.linkedin.com/in/tia-saxena-b97052215/" rel="nofollow">
+  <a href="" rel="nofollow">
     <img
       src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
     />
