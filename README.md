@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **awesome project with awesome folks**
 
-- 🤓 I’m brushing my **ReactJS skills**
+- 🤓 I’m brushing my **Deep Learning Skills**
 
 - 💬 Ask me about **React, JavaScript**
 
