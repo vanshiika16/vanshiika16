@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm VANSHIKA👩🏽‍💻</h1>
+<h1 align="center">Hi, I'm VANSHIKA</h1>
 <h3 align="center">Hopping in the tech world!</h3>
 <br>
 <img align = "right" src="https://media4.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=ecf05e47k5e3xmpd6m4dvu906z3mvoo6ovh3o6muqeyus7lm&rid=giphy.gif&ct=g" alt = "snake-svg"/>
@@ -29,7 +29,7 @@
   </a>
 </p>
 <br/>
-- 🌐 <a href="https://vanshiika16.github.io/myapp/" target="blank">Portfolio</a>
+- 🌐 <a href="https://vanshiika16.github.io/portfolio/" target="blank">Portfolio</a>
 <br/>
 <hr/>
 <br/>
