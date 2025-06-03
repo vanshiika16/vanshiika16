@@ -33,7 +33,7 @@
 <br/>
 <hr/>
 <br/>
-<p align="center"> 🤩Feel free to appreciate my work🤩 </p>
+<p align="center">Feel free to connect :) </p>
 
 <!--
 **vanshiika16/vanshiika16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
