@@ -32,7 +32,7 @@
 <hr/>
 <br/>
 <div  align = "center">
-  <p>Feel free to connect:) </p>
+  <p>Feel free to connect:)) </p>
 </div>
 
 
